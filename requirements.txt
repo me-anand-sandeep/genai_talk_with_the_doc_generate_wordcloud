@@ -1,0 +1,11 @@
+streamlit
+anthropic
+contractions
+matplotlib
+nltk
+numpy
+pandas
+PyPDF2
+python_docx
+seaborn
+wordcloud
