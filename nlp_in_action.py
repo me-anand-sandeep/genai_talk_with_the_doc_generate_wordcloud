@@ -9,11 +9,10 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
+
 import seaborn as sns
 import PyPDF2
 from docx import Document
-import plotly.express as px
 
 import base64
 from io import BytesIO
